@@ -26,4 +26,3 @@ cargo run
 ## Notes
 
 - The game uses a system font copied to `resources/DOS_font.ttf`. If the text looks weird or doesn't load, you might need to provide a proper DOS VGA font file at that location.
-# dos_vibecoded_game
